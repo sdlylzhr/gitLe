@@ -29,7 +29,7 @@ header("Content-type:text/html;charset=utf-8");
 	// 测git
 
 
-	// add content for test
+	// add content
 	
 	?>
 	
