@@ -21,13 +21,12 @@ header("Content-type:text/html;charset=utf-8");
 	
 	// 定义一个常量
 	
-	// define("PAGE_SIZE", 6);
 	if ($result) {
 		echo "成功";
 	} else {
 		echo "失败";
 	}
-	
+	// 测试git
 	
 	?>
 	
